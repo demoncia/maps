@@ -1,2 +1,2 @@
 # maps
-maps
+maps navmesh and water textures
